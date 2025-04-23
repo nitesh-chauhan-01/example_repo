@@ -1,13 +1,8 @@
-# Example Repository
-
-This is a sample repository created for demonstration purposes.
+# Sample Repository
 
 ## About
 
-This repository serves as an example to showcase:
-- GitHub repository creation
-- README file management
-- Basic repository structure
+This is a sample repository created for demonstration purposes.
 
 ## Getting Started
 
